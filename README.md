@@ -49,11 +49,6 @@ The evaluation of various machine learning models revealed insights into their p
 
 The XGBoost model with GridSearchCV stood out as the best-performing model, showcasing the highest accuracy and superior predictive capability among the models evaluated.
 
-
-### 6. Model Deployment
-
-If any model was deployed or made accessible, provide instructions or details on how to access/use the model.
-
 ### 7. Conclusion and Next Steps
 
 The XGBoost model with GridSearchCV outperformed others, showing the highest test accuracy and ROC AUC score. It demonstrated superior predictive ability and generalization to new data, making it the best-performing model among those evaluated.
