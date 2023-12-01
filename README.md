@@ -4,7 +4,7 @@
 
 ## Navigating the Repository
 
-- The repository consists of the notebook `H1N1.ipynb`, and the data sources `submission_format.csv` `test_set_features.csv` `training_set_features.csv` and `training_set_labels.csv`. These files are in the root directory.
+- The repository consists of the notebook `H1N1.ipynb`, and the data sources `test_set_features.csv` `training_set_features.csv` and `training_set_labels.csv`. These files are in the root directory.
 
 - The repository also contains a folder `images` that contains `flu-vaccine.jpg`
 
@@ -35,7 +35,7 @@ Steps were taken to preprocess the data, such as handling categorical variables,
 
 ### 4. Model Selection and Training
 
-A baseline model was developed using Logistic Regression. More complex models were also developed using Random Forest and *K*-Nearest Neighbours
+A baseline model was developed using Logistic Regression. More complex models were also developed using Random Forest and *K*-Nearest Neighbours. Ensemble methods were applied using XGBoost. Further tuning was done using GridSearchCV.
 
 ### 5. Model Evaluation
 
