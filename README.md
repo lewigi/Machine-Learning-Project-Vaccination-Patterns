@@ -4,7 +4,7 @@
 
 ## Navigating the Repository
 
-- The repository consists of the notebook `H1N1.ipynb`, and the data sources `test_set_features.csv` `training_set_features.csv` and `training_set_labels.csv`. These files are in the root directory.
+- The repository consists of the notebook `H1N1.ipynb`, `H1N1 presentation.pdf` and the data sources `test_set_features.csv` `training_set_features.csv` and `training_set_labels.csv`. These files are in the root directory.
 
 - The repository also contains a folder `images` that contains `flu-vaccine.jpg`
 
